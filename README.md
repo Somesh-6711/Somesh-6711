@@ -48,7 +48,7 @@ A Grafana dashboard tracks latency, throughput, and GPU utilization over time. M
 | Infra | Docker, GitHub Actions, MLflow, Prometheus, Grafana, CUDA, Linux, AWS |
 | Languages | Python, C++, SQL, Bash |
 
-### A non-work thing
+###  non-work thing
 
 <img src="./leyendo-el-diario-periodico.gif" alt="freetime" width="200" align="left">&nbsp;&nbsp;&nbsp;
 
