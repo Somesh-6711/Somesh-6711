@@ -50,7 +50,7 @@ A Grafana dashboard tracks latency, throughput, and GPU utilization over time. M
 
 ### A non-work thing
 
-<img src="./leyendo-el-diario-periodico.gif" alt="freetime" width="200" align="left" hspace="0.04">
+<img src="./leyendo-el-diario-periodico.gif" alt="freetime" width="200" align="left">&nbsp;&nbsp;&nbsp;
 
 I played right wing forward through my bachelor's and still play when I can. Football and profiling turn out to have the same shape: the thing that looks like the problem usually isn't, and you only find out by watching where the space actually opens up. Off the pitch it's FPS and soulslike games — Counter-Strike, Sekiro — and Indian history, which is mostly a long lesson in how much context you're missing.
 
